@@ -27,8 +27,8 @@ This app uses Express.js and body-parser for work. You can install these by exec
 4. Go to `localhost:3000` on your browser. Give input to the calculator. <br>
 
 5. The front-end sends entered data to the back-end (server side), where it gets parsed by `body-parser` on the server side. After that, the server sends the output to the browser, where it is displayed.<br>
-
-#HTML
+<br>
+# HTML <br>
 By using HTML, I created the index.html file for the front end.
 # Screenshots
 
@@ -49,7 +49,7 @@ By using HTML, I created the index.html file for the front end.
 ![Overall Interface](https://github.com/Mudasirrr/SIT725-TASK-2.2P-Assessment-/blob/main/Result%20from%20Post%20Method.PNG)
 -------
 <br>
-# Node.js-Express.js
+# Node.js - Express.js
 By using Node.js & Express.js frameworks, I have created a back-end in which I write some APIS and used express.js 
 ![Server Side 1](https://github.com/Mudasirrr/SIT725-TASK-2.2P-Assessment-/blob/main/server%20side%201.PNG)
 -------
