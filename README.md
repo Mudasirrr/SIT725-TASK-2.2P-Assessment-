@@ -1,34 +1,35 @@
 # SIT725-TASK-2.2P-Assessment-
 
 # SIT725-TASK-2.2P
-In this assessment, I simply make a web site by using basic HTML, Node.js, and Express.js Framework 
+In this assessment, I simply make a website by using basic HTML, Node.js, and Express.js Framework 
 
 For completing this task, I install and create the following:
-   # 1. Node.js<br>
-   #2. Vs Code<br>
-   #3. Express.js<br>
-   #4. Github Repository<br>
-   #5. Git<br>
+   # 1. Node. js<br>
+   # 2. Vs Code <br>
+   # 3. Express.js <br>
+   # 3. body-parser <br>
+   # 4. GitHub Repository<br>
+   # 5. Git<br>
 
    
 # How it will work?
 
-1. Clone this repository in your system`
+1. Clone this repository in your system`<br>
 
 2. Use NPM (Node Package Manager) to install dependencies for this project. <br>
-This app uses Express.js and body-parser for working. You can install these by executing this command: <br>
+This app uses Express.js and body-parser for work. You can install these by executing this command: <br>
 ```1-npm install express``` and <br>
-```2-npm install body-parser```
+```2-npm install body-parser``<br>
 
 3. Now use Node.js to start the server: <br>
-```npm start```
+```npm start```<br>
 
-4. Go to `localhost:3000` on your browser. Give inputs to the calculator. 
+4. Go to `localhost:3000` on your browser. Give input to the calculator. <br>
 
-5. The front-end sends entereed data to the back-end(server side), where it gets parsed by `body-parser` at server side. After that, the server sends the output to the browser where it gets displayed.
+5. The front-end sends entered data to the back-end (server side), where it gets parsed by `body-parser` on the server side. After that, the server sends the output to the browser, where it is displayed.<br>
 
 #HTML
-By using HTML I created the index.html file for front end.
+By using HTML, I created the index.html file for the front end.
 # Screenshots
 
 #Overall Interface
@@ -47,19 +48,13 @@ By using HTML I created the index.html file for front end.
 -------
 ![Overall Interface](https://github.com/Mudasirrr/SIT725-TASK-2.2P-Assessment-/blob/main/Result%20from%20Post%20Method.PNG)
 -------
-
+<br>
 # Node.js-Express.js
-By using Node.js & Express.js framework I have created back-end in which I write some APIS and used express.js 
+By using Node.js & Express.js frameworks, I have created a back-end in which I write some APIS and used express.js 
 ![Server Side 1](https://github.com/Mudasirrr/SIT725-TASK-2.2P-Assessment-/blob/main/server%20side%201.PNG)
 -------
 
 ![Server side 2](https://github.com/Mudasirrr/SIT725-TASK-2.2P-Assessment-/blob/main/server%20side%202.PNG)
 -------
-
-
-
-app.listen(port, ()=>{
-    console.log('server started')});
-
 
 
