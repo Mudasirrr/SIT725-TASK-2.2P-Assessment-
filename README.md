@@ -32,8 +32,9 @@ By using HTML I created the index.html file for front end.
 # Screenshots
 
 #Overall Interface
+-------
 ![Overall Interface](https://github.com/Mudasirrr/SIT725-TASK-2.2P-Assessment-/blob/main/Overl%20Interface.PNG)
-
+--------------
 #Simple Get Method
 ![Overall Interface](https://github.com/Mudasirrr/SIT725-TASK-2.2P-Assessment-/blob/main/Simple%20get%20method.PNG)
 -------
