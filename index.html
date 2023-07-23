@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <title>SIT725-Assessment</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='server.js'></script>
+</head>
+<body>
+    <h1>SIMPLE CALCULATOR by using simple Get Method </h1>
+    <h5>The numbers already set in the button, if you want to change just change in the link</h5>
+
+    <button onclick="window.location.href='http://localhost:7000/addTwonumbers?number1=2&number2=5';">
+        Addition
+      </button>
+      
+    <button onclick="window.location.href='http://localhost:7000/mulTwonumbers?number1=2&number2=5';">
+        Multiplication
+      </button>
+      <h2>Calculate sum of two numbers using Post Method: </h2>
+      <form action="/" method="post">
+          <p>Number 1: </p>
+          <input type="text" name="num1" placeholder="First number...">
+          <p>Number 2: </p>
+          <input type="text" name="num2" placeholder="Second number...">
+          <button type="submit" name="submit">Calculate</button>
+      </form>
+</body>
+</html>
